@@ -8,4 +8,4 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 ## insertaremos una imagen
 
-![hack](img/logo.png)
+![hack](img/hackwoman.png)
