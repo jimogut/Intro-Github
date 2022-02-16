@@ -13,3 +13,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 Nombre | Actividad Laboral/Academica
 -------|-----------------------------
 *Jesús Armando López García* | Instructor/Google DSC Lead /Data Intelligence Manager
+
+## Aliados
+
+![hack](img/logo.png)
